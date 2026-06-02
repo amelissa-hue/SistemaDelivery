@@ -1,0 +1,9 @@
+========================================================================
+         INFORME DE ENTREGAS — SISTEMA DELIVERY
+========================================================================
+
+ID: 1001  | Cliente: xc              | Restaurante: Pizza Roma     | VIP: true  | Estado: ENTREGADO      | Total: $50000,00 | Productos: Pizza 4 Quesos, Calzone Jamón, Tiramisú
+
+========================================================================
+  Total pedidos: 1  |  Entregados: 1  |  VIP: 1
+========================================================================
